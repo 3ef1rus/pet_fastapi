@@ -1,5 +1,4 @@
 from typing import Union
-from pydantic import BaseModel, EmailStr
 from fastapi import FastAPI
 from items_views import router as items_router
 from users.views import router as users_router
