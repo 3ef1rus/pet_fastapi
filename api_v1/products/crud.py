@@ -3,6 +3,7 @@ Create
 Read
 Update
 Delete
+
 """
 from sqlalchemy import select
 from sqlalchemy.engine import Result
